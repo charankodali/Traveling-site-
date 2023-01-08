@@ -89,7 +89,7 @@ a:hover{
         padding: 20px;
     }
     .footer-wrapper{
-        width: 100%
+        width: 100%;
     }
 }
 @media  screen and (max-width:415px){
@@ -237,7 +237,7 @@ a:hover{
     border-bottom-right-radius:20px;
 }
 .form-wrapper input{
-    padding: 1rem 3rem;
+    padding: 1rem 0rem;
 }
 /*footer context*/
  
