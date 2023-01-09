@@ -63,6 +63,9 @@ nav ul {
     flex: 2 1 40rem;
     font-family: 'Moon Dance', cursive;
 }
+#logo:hover{
+ color:rgb(57, 199, 238);
+}
 a:hover{
     color:rgb(57, 199, 238);
 }
